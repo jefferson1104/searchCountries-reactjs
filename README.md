@@ -47,5 +47,5 @@ $ yarn start
 ```
 
 ## Screenshots
-<img alt="react country" src="../public/screenshots/screenshot-01.png">
-<img alt="react country" src="../public/screenshots/screenshot-02.png">
+<img alt="react country" src="./public/screenshots/screenshot-01.png">
+<img alt="react country" src="./public/screenshots/screenshot-02.png">
