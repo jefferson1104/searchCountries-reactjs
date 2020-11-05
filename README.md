@@ -15,19 +15,17 @@
 Pequeno projeto feito em ReactJS, faz uma apresentação dos paises com sua bandeira, filtra os paises e exibe a informacao sobre o numero da populacao de acordo com o pais filtrado.
 
 ## Informacoes do projeto
-- Trabalhando com componentizacao.
+- Materialize & css customizado.
+
+- Trabalhando com functional components
 
 - trabalhando com estados da aplicacao.
 
-- trabalhando com lifecycle com componentDidMount.
+- Utilizando hooks (useState e useEffect).
 
-- Desestruturacao de estado e props.
+- Desestruturacao de props.
 
-- Monitoramento dos inputs com reactJS, utilizando os atributos em Value e Onchange.
-
-- Funcoes simples, isolando em Helpers, assim sao mais facilmente reaproveitadas.
-
-- Materialize & css externo.
+- Monitoramento de inputs.
 
 
 ## :cyclone: Como executar este projeto?
